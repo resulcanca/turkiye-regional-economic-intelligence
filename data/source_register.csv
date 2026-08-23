@@ -1,0 +1,5 @@
+﻿source,indicator,coverage,reference,official_url,usage
+TÜİK,Income Distribution Statistics 2025,26 NUTS-2 regions,2025 release / income reference 2024,https://veriportali.tuik.gov.tr/tr/press/53993,Core income dataset
+TCMB,House Price Index,Turkey + 3 major cities,January 2026,https://www.tcmb.gov.tr/,Housing pressure
+TCMB,New Tenant Rent Index,Turkey + 3 major cities,January 2026,https://www.tcmb.gov.tr/,Rent pressure
+TEDAŞ,Electricity Distribution and Consumption Statistics,Province-level source identified,2024,https://www.tedas.gov.tr/,Future extension; not inserted without direct table verification

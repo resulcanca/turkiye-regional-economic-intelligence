@@ -1,0 +1,20 @@
+{
+  "name": "Türkiye Regional Economic Intelligence",
+  "type": "Data Analytics Portfolio",
+  "primary_skill": "SQL",
+  "secondary_skills": [
+    "Python",
+    "Power BI",
+    "Statistics",
+    "Data Modeling"
+  ],
+  "data_sources": [
+    "TÜİK",
+    "TCMB"
+  ],
+  "regions": 26,
+  "business_questions": 30,
+  "database": "SQLite",
+  "dashboard": "Standalone HTML",
+  "synthetic_data": false
+}

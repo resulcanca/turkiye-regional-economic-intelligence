@@ -1,0 +1,12 @@
+Rows: {'regional_income': np.int64(26), 'housing_snapshot': np.int64(4), 'poverty_selected': np.int64(5)}
+Top 3:
+region_code  income_2025_tl
+       TR51          449618
+       TR10          434929
+       TR31          405896
+Bottom 3:
+region_code  income_2025_tl
+       TRB2          172552
+       TRC2          172968
+       TRC3          189487
+No synthetic regional income or housing values were generated.
