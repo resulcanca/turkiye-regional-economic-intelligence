@@ -45,6 +45,8 @@ Instead of a generic "Türkiye economy" dashboard, the project is structured as 
 
 ## Dashboard
 
+<img width="1600" height="1000" alt="dashboard" src="https://github.com/user-attachments/assets/c959cb38-1bde-4830-96b4-6332d0cba5c8" />
+
 Open:
 
 `dashboard/index.html`
