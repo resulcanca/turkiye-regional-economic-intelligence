@@ -46,6 +46,12 @@ Instead of a generic "Türkiye economy" dashboard, the project is structured as 
 ## Dashboard
 
 <img width="1600" height="1000" alt="dashboard" src="https://github.com/user-attachments/assets/c959cb38-1bde-4830-96b4-6332d0cba5c8" />
+<img width="1600" height="1000" alt="01_regional_income_ranking" src="https://github.com/user-attachments/assets/bf5f3514-67e2-4bf4-a28b-7d7562d31cf5" />
+<img width="1600" height="1000" alt="02_income_growth_ranking" src="https://github.com/user-attachments/assets/5e111cf5-4279-41aa-963f-b55aa2654b5c" />
+<img width="1600" height="1000" alt="03_major_city_housing_pressure" src="https://github.com/user-attachments/assets/c6cb911a-456a-4bc3-8762-3e45ba919bee" />
+<img width="1600" height="1000" alt="04_income_gap_to_ankara" src="https://github.com/user-attachments/assets/37e048a5-8f2b-4f8f-a53d-f95ed8876c8e" />
+<img width="1600" height="1000" alt="05_economic_attractiveness_score" src="https://github.com/user-attachments/assets/94d9c6b8-e173-47a0-a514-a787fcb8d8ee" />
+<img width="1600" height="1000" alt="06_data_to_insight_workflow" src="https://github.com/user-attachments/assets/4f102a74-e0a7-4cd6-8edd-1b7d34c0db9a" />
 
 Open:
 
